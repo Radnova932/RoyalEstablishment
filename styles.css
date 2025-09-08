@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: rgb(4, 95, 23);
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}

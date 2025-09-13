@@ -6,11 +6,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #020202;
+    color:azure;
 }
 
 h1 {
-    color: rgb(4, 95, 23);
+    color: rgb(255, 174, 0);
     text-align: center;
 }
 
@@ -19,8 +20,9 @@ nav ul {
     margin-top: 50px;
     padding: 0;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #020202;
     display: flex;
+    
 }
 
 nav ul li {
